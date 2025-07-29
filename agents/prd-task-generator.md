@@ -1,6 +1,6 @@
 ---
 name: prd-task-generator
-description: Use this agent when you need to convert a Product Requirements Document (PRD) into a detailed, actionable task list for developers. Examples: <example>Context: User has a PRD file and wants to create implementation tasks. user: 'I have a PRD for user profile editing at /docs/prd-user-profile-editing.md. Can you create a task list for implementing this feature?' assistant: 'I'll use the prd-task-generator agent to analyze your PRD and create a comprehensive task list for implementation.' <commentary>Since the user has a PRD and wants implementation tasks, use the prd-task-generator agent to analyze the document and create the structured task list.</commentary></example> <example>Context: Developer needs to break down a feature specification into development tasks. user: 'We need to implement the shopping cart feature described in our PRD. The file is at /specs/prd-shopping-cart.md' assistant: 'Let me use the prd-task-generator agent to create a detailed task breakdown from your shopping cart PRD.' <commentary>The user has a PRD file and needs it converted to implementation tasks, so use the prd-task-generator agent.</commentary></example>
+description: Use this agent when you need to convert a Product Requirements Document (PRD) into a detailed, actionable task list for developers.
 color: blue
 ---
 
