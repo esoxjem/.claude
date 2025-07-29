@@ -22,9 +22,9 @@ Build the <app-name> iOS app and automatically fix any build errors that occur.
 
 ## Build Configuration
 
-- **Project**: 
-- **Scheme**: 
+- **Project**: <project-name>
+- **Scheme**: <scheme-name>
 - **Target**: iOS Simulator (iPhone 16)
-- **Configuration**: 
+- **Configuration**: <config>
 
 Please proceed with building the app and fixing any errors that occur.
